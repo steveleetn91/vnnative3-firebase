@@ -1,0 +1,31 @@
+{
+  "name": "vnnative3-firebase",
+  "version": "1.0.0",
+  "description": "Vn native 3 - plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish" : "tsc",
+    "build":"tsc"
+  },
+  "bin":{
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steveleetn91/vnnative3-firebase.git"
+  },
+  "keywords": [
+    "vnf3",
+    "vnnative3"
+  ],
+  "author": "stevelee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steveleetn91/vnnative3-firebase/issues"
+  },
+  "homepage": "https://github.com/steveleetn91/vnnative3-firebase#readme",
+  "dependencies": {
+    "typescript": "^4.6.2"
+  }
+}
