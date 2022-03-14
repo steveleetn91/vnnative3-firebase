@@ -1,6 +1,6 @@
 {
   "name": "vnnative3-firebase",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vn native 3 - plugin",
   "main": "index.js",
   "scripts": {
